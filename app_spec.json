@@ -1,0 +1,1 @@
+{"name": "15-build-a-comprehensive-chronic--firebase-162443", "spec": {"port": 8000, "containers": [{"image": "", "name": "15-build-a-comprehensive-chronic--firebase-162443", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
